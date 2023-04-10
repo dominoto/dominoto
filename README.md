@@ -19,12 +19,16 @@ Here are some ideas to get you started:
 ```text
 From: 30 August 2021 - To: 10 April 2023
 
-Python       114 hrs 42 mins █████████████▓░░░░░░░░░░░   54.22 %
-JavaScript   69 hrs 33 mins  ████████▒░░░░░░░░░░░░░░░░   32.88 %
-CSS          8 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-JSON         8 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-HTML         5 hrs 47 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Text         2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Total Time: 211 hrs 35 mins
+
+Python       114 hrs 42 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   54.22 %
+JavaScript   69 hrs 33 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.88 %
+CSS          8 hrs 11 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.87 %
+JSON         8 hrs           ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.79 %
+HTML         5 hrs 47 mins   ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.74 %
+Text         2 hrs 4 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.98 %
+SCSS         2 hrs 4 mins    ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.98 %
+Other        31 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.25 %
 ```
 
 <!--END_SECTION:waka-->
