@@ -17,19 +17,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2021 - To: 27 July 2025
+From: 30 August 2021 - To: 28 July 2025
 
-Total Time: 656 hrs 46 mins
+Total Time: 661 hrs 32 mins
 
-Python               198 hrs 5 mins  ########-----------------   30.16 %
-JavaScript           193 hrs 47 mins #######------------------   29.51 %
-Blade Template       109 hrs 9 mins  ####---------------------   16.62 %
-PHP                  73 hrs 18 mins  ###----------------------   11.16 %
-CSS                  17 hrs 36 mins  #------------------------   02.68 %
-JSON                 15 hrs 15 mins  #------------------------   02.32 %
-HTML                 12 hrs 55 mins  -------------------------   01.97 %
-Markdown             9 hrs 8 mins    -------------------------   01.39 %
-TypeScript           6 hrs 29 mins   -------------------------   00.99 %
+Python               198 hrs 5 mins  #######------------------   29.95 %
+JavaScript           193 hrs 47 mins #######------------------   29.30 %
+Blade Template       112 hrs 47 mins ####---------------------   17.05 %
+PHP                  74 hrs 25 mins  ###----------------------   11.25 %
+CSS                  17 hrs 36 mins  #------------------------   02.66 %
+JSON                 15 hrs 15 mins  #------------------------   02.31 %
+HTML                 12 hrs 55 mins  -------------------------   01.95 %
+Markdown             9 hrs 8 mins    -------------------------   01.38 %
+TypeScript           6 hrs 29 mins   -------------------------   00.98 %
 SCSS                 4 hrs 53 mins   -------------------------   00.74 %
 ```
 
